@@ -7,7 +7,7 @@ a1 = 500
 a2 = 300
 a3 = 400
 a4 = 300
-  qwe
+
 % Take note of theta, alpha, r/a, and d
 H_01 = Prismatic()
 H_12 = Revolute('a', a2)
