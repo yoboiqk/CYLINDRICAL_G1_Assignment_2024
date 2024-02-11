@@ -3,10 +3,10 @@ syms a1 a2 a3 a4
 
 % Link Lengths a1 to a4
 
-a1 = 500;
-a2 = 300;
-a3 = 400;
-a4 = 300;
+a1 = 500
+a2 = 300
+a3 = 400
+a4 = 300
 
 % Take note of theta, alpha, r/a, and d
 H_01 = Prismatic()
