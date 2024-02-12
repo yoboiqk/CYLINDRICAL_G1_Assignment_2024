@@ -2,7 +2,7 @@
 This is a Robotics 2 Assignment to be passed to our professor, MikkoDT.
 
 OK
-
+Yes
 
 Below are all the 3 manipulator's D-H Parametric Table together with their Kinematic Diagrams:
 1. Spherical Manipulator - Modern Variant
