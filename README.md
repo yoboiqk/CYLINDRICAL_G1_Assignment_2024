@@ -1,9 +1,7 @@
 # CYLINDRICAL_G1_Assignment_2024
 This is a Robotics 2 Assignment to be passed to our professor, MikkoDT.
 
-OK
-Yes
-1
+
 
 Below are all the 3 manipulator's D-H Parametric Table together with their Kinematic Diagrams:
 1. Spherical Manipulator - Modern Variant
